@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/camlahoud/react-native-emoji-selector/issues"
   },
-  "homepage": "https://github.com/camlahoud/react-native-emoji-selector#readme"
+  "homepage": "https://github.com/camlahoud/react-native-emoji-selector#readme",
+  "dependencies": {
+    "emoji-datasource": "^2.4.4",
+    "react-native-scrollable-tab-view": "git+https://github.com/camlahoud/react-native-scrollable-tab-view.git"
+  }
 }
