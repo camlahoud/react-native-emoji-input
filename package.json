@@ -1,0 +1,24 @@
+{
+  "name": "react-native-emoji-selector",
+  "version": "0.1.0",
+  "description": "An emoji selector for react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camlahoud/react-native-emoji-selector.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "emoji"
+  ],
+  "author": "Camille Lahoud <camlahoud@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/camlahoud/react-native-emoji-selector/issues"
+  },
+  "homepage": "https://github.com/camlahoud/react-native-emoji-selector#readme"
+}
