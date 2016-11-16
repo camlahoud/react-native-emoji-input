@@ -1,5 +1,5 @@
 {
-  "name": "react-native-emoji-selector",
+  "name": "react-native-emoji-input",
   "version": "0.1.0",
   "description": "An emoji selector for react native",
   "main": "index.js",
